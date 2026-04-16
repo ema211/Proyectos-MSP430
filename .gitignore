@@ -1,0 +1,21 @@
+# CCS build
+**/Debug/
+**/Release/
+**/Generated Binaries/
+
+# Binarios
+**/*.out
+**/*.obj
+**/*.d
+**/*.map
+
+# Makefiles
+**/*.mk
+
+# Config local
+**/.settings/
+**/.launches/
+**/targetConfigs/
+
+# Logs
+**/*.log

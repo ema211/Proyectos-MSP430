@@ -1,0 +1,95 @@
+{
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "FirstBlink",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "FirstBlink",
+                "resourceId": "/FirstBlink"
+            }
+        },
+        {
+            "name": "BarridoDeLeds",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "BarridoDeLeds",
+                "resourceId": "/BarridoDeLeds"
+            }
+        },
+        {
+            "name": "Stepper_Timer",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Stepper_Timer",
+                "resourceId": "/Stepper_Timer"
+            }
+        },
+        {
+            "name": "PWM_1",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "PWM_1",
+                "resourceId": "/PWM_1"
+            }
+        },
+        {
+            "name": "Blink LED",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "Blink LED",
+                "resourceId": "/Blink LED"
+            }
+        },
+        {
+            "name": "PWM_2",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "PWM_2",
+                "resourceId": "/PWM_2"
+            }
+        },
+        {
+            "name": "PWM_adc",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "PWM_adc",
+                "resourceId": "/PWM_adc"
+            }
+        },
+        {
+            "name": "UART_BT",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "UART_BT",
+                "resourceId": "/UART_BT"
+            }
+        },
+        {
+            "name": "VelocidadMotor",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "VelocidadMotor",
+                "resourceId": "/VelocidadMotor"
+            }
+        },
+        {
+            "name": "P2",
+            "type": "ccs-debug",
+            "request": "launch",
+            "projectInfo": {
+                "name": "P2",
+                "resourceId": "/P2"
+            }
+        }
+    ]
+}
